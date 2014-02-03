@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/_studium/09-stanford/teaching/224/pa4-deepNER/pa4-ner/java/ejml.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
